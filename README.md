@@ -33,18 +33,6 @@ Dimensionality reduction of MNIST dataset using PCA in Python
 - Git
 - Linux
 
-## Структура проекта
-
-```text
-mnist-pca-dimensionality-reduction/
-├── README.md
-├── mnist_pca_project.py
-├── report.md
-├── presentation.pptx
-├── requirements.txt
-└── .gitignore
-```
-
 ## Установка и запуск
 
 Установить зависимости:
@@ -59,8 +47,6 @@ pip install -r requirements.txt
 python mnist_pca_project.py
 ```
 
-Важно: при первом запуске требуется интернет, так как датасет MNIST загружается через OpenML.  
-После загрузки данные кешируются локально.
 
 ## Результаты
 
